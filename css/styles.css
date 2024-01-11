@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+
+}
+
+.header {
+    padding: 2%;
+    background-image: url(/gif\ app/img/header-wallpaper.jpeg);
+    height: 300 px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.header img{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.main {
+    background-image: url("/gif\ app/img/main-wallpaper.jpg");
+    height: 1000px;
+    width: 100%;
+}
+
+.buscador {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.buscador input{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    height: 30px;
+    background-color: lightgray;
+    border-radius: 8px ;
+}
+
+.gif {
+    margin-left: 2%;
+    border-radius: 10px;
+}
+
